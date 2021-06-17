@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT Edge_Tool.wsgi:application
