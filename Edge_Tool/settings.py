@@ -31,8 +31,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 CORS_ORIGIN_WHITELIST = (
-  'https://stormy-shore-78296.herokuapp.com',
-  'http://stormy-shore-78296.herokuapp.com'
+  'https://playful-caramel-85ffdc.netlify.app',
+  'http://playful-caramel-85ffdc.netlify.app',
+  'localhost'
 )
 # Application definition
 
