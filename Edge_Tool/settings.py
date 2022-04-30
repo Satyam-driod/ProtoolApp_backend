@@ -33,7 +33,8 @@ ALLOWED_HOSTS = ['*']
 CORS_ORIGIN_WHITELIST = (
   'https://playful-caramel-85ffdc.netlify.app',
   'http://playful-caramel-85ffdc.netlify.app',
-  'localhost:3000'
+  'http://localhost:3000',
+  'http://127.0.0.1:3000/'
 )
 # Application definition
 
